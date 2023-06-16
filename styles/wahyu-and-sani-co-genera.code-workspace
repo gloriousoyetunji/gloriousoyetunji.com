@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "wahyu-and-sani-co-genera",
+			"path": "../../../../Downloads/wahyu-and-sani-co-genera"
+		},
+		{
+			"name": "PortfolioWebsite",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PortfolioWebsite"
+	}
+}
