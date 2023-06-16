@@ -1,0 +1,76 @@
+body{
+  background-color: rgb(248, 242, 220);
+  font-family:
+  Genera, Geneva;
+  }
+
+.nav{
+  display: flex;
+  flex: row;
+  justify-content: space-between;
+  margin-left: 75px;
+  margin-right: 75px;
+  font-size: 2vw;
+  color: rgb(70, 0, 11);
+  align-items: center;
+  height: 50px;
+}
+
+h1, h2{
+  color: rgb(70, 0, 11);
+}
+
+.searchbar{
+  border: none;
+  background-color: rgba(124, 144, 160, 0.27);
+  color: rgb(205, 93, 103);
+  height: 2.9vw;
+  vertical-align: middle;
+  border-radius: 20px;
+  font-size: 1vw;
+  text-align: center;
+}
+
+::placeholder{
+  color: rgba(205, 93, 102, 0.748);
+  font-family: Genera;
+}
+
+.encompass{
+  display: flex;
+  flex-direction: column;
+}
+
+.body{
+  margin-top: 20%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+}
+
+.symbol{
+  flex:1;
+  text-align: center;
+  font-size: 3vw;
+  height: 3vw;
+}
+
+.headline{
+  flex: 1;
+  font-size: 1.7vw;
+  height: 3vw;
+}
+
+a{
+  text-decoration: none;
+  color: inherit;
+}
+
+.searchbar:active{
+  width: 200px;
+}
+.searchbar:focus{
+  width: 250px;
+  transition: 1s;
+}
