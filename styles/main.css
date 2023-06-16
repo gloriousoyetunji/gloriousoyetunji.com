@@ -74,3 +74,7 @@ a{
   width: 250px;
   transition: 1s;
 }
+@font-face {
+font-family: "Genera";
+src: url("https://gloriousoyetunji.github.io/styles/wahyu_and_sani_co._-_genera_semibold-webfont.woff") format("woff");
+}
