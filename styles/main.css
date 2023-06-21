@@ -8,8 +8,8 @@ body{
   display: flex;
   flex: row;
   justify-content: space-between;
-  margin-left: 75px;
-  margin-right: 75px;
+  margin-left: 10%;
+  margin-right: 10%;
   font-size: 2vw;
   color: rgb(70, 0, 11);
   align-items: center;
